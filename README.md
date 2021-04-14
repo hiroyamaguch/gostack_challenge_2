@@ -1,5 +1,5 @@
 # GoStack - Desafio: Conceitos do ReactJS
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/hiroyamaguch/tcc_web/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/hiroyamaguch/gostack_challenge_2/blob/main/LICENSE)
 
 # Sobre o projeto
 Este é o front-end desenvolvido para o desafio Conceitos do React.js do curso GoStack da Rocketseat. O back-end dessa aplicação está disponível [aqui](https://github.com/hiroyamaguch/gostack_challenge_1).
